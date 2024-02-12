@@ -1,2 +1,4 @@
 # PRODIGY_WD_02
-Internship
+# Internship
+
+Stopwatch Web Application
